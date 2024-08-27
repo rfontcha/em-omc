@@ -2,7 +2,7 @@
 
 ## About this Workshop
 The Database Lifecycle Automation is a fully functional Oracle Enterprise Manager environment configured to run predefined use cases against multiple Oracle Database targets:
-- This Workshop VM comes preinstalled with Enterprise Manager 13.5 and Oracle Database targets - 18.3, 18.8, 18.10, 19.3 and 19.10
+- This Workshop VM comes preinstalled with Enterprise Manager 13.5 and Oracle Database targets - 18.8, 19.17, 19.18 and 19.23
 - It's easy and quick to deploy with everything starting automatically in under 20 minutes
 
 *Estimated Time:* 60 minutes
@@ -30,7 +30,7 @@ The objective of this workshop is to learn about Oracle Database Lifecycle and C
 
 ### Additional Workshop Supported Use Cases
 
-For additional Enterprise Manager use cases, see below and visit [LiveLabs](http://developer.oracle.com/livelabs) for the details.
+For additional Enterprise Manager use cases, see below and visit [LiveLabs](http://livelabs.oracle.com) for the details.
 #### 1. Find, Fix, Validate
 - View unified Database Performance via Performance Hub
 - Use Real-time Database Operations Monitoring to view long running database tasks
